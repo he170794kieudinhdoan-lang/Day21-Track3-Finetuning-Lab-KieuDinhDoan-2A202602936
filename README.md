@@ -1,5 +1,15 @@
 # Day 21 — Fine-tuning LLMs · Lab (Track 3)
 
+> **Thông tin nộp bài (Option B: GitHub + HuggingFace Hub)**
+> - **Học viên**: Kiều Đình Đoàn  
+> - **MSSV**: 2A202602936  
+> - **Báo cáo đánh giá chi tiết**: [submission/REPORT.md](submission/REPORT.md)  
+> - **Model Fine-tuned Adapter trên HuggingFace Hub (+2 điểm thưởng B5)**: [https://huggingface.co/tesfwefew/qwen3.5-4b-cskh-lora](https://huggingface.co/tesfwefew/qwen3.5-4b-cskh-lora)  
+> - **Toàn bộ kết quả thực nghiệm**: Thư mục [results/](results/) (khớp 100% với báo cáo)  
+> - **Liên kết nộp bài**: [LINKS.md](LINKS.md)
+
+---
+
 > **AICB-P2T3 · Ngày 21 · Chương 5 — Fine-tuning & An Toàn**
 > Đi kèm deck `day21-fine-tuning-llms-lora-qlora.tex` (140 trang · 25 module; bản gọn 72 trang).
 
